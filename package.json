@@ -1,5 +1,5 @@
 {
-  "name": "bitstate",
+  "name": "bitstatejs",
   "version": "1.0.0",
   "description": "Manage class state",
   "main": "index.js",
